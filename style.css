@@ -1,0 +1,17 @@
+.myCoolClass {
+    color: blueviolet
+}
+
+#myCoolId {
+    font-size: 50px;
+}
+
+div > p {
+    color: black
+}
+
+@media(max-width: 800px) {
+    #myCoolId {
+        font-size: 30px;
+    }
+}
